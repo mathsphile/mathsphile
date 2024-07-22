@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathsphile" alt="Nandini Das Trophy" /></a> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mathsphile&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=mathsphile&theme=dark" alt="GitHub Streak">
+    </a>
+</p>
 
 
